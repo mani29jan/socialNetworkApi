@@ -1,0 +1,29 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "social network api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mani29jan/socialNetworkApi.git"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "API"
+  ],
+  "author": "Manpreet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mani29jan/socialNetworkApi/issues"
+  },
+  "homepage": "https://github.com/mani29jan/socialNetworkApi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13",
+    "nodemon": "^2.0.7"
+  }
+}
